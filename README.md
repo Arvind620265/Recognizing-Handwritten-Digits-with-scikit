@@ -1,1 +1,1 @@
-# Recognizing-Handwritten-Digits-with-scikit
+# Recognizing-Handwritten-Digits-with-scikit-learn
